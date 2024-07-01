@@ -1,0 +1,22 @@
+.my-nav {
+    max-height: 30px; /* Ajusta la altura máxima del logotipo */
+    margin-right: 10px; 
+    color:white;
+}
+
+.cartitas {
+    display:grid;
+    place-items: center;
+}
+
+body * {
+    font-family: "Raleway";
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.fixed-top.scrolled {
+    background-color: #0dcaf0 !important;
+    transition: background-color 200ms linear;
+  }
