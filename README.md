@@ -11,7 +11,7 @@ Gracias a este modulo comprendemos que html brinda estructura a las paginas webs
 
 ## Documentation
 
-[iconos AWESOME](https://https://fontawesome.com/)
+[iconos AWESOME](https://fontawesome.com/)
 
 [Google Fonts](https://fonts.google.com/)
 
